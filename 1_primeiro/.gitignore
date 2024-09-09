@@ -1,0 +1,44 @@
+# Dependências instaladas pelo npm
+/node_modules
+
+# Arquivos gerados pelo build
+/build
+
+# Arquivos de log
+/logs
+
+# Arquivos de configuração local
+/.env
+
+# Arquivos de cache
+/.cache
+
+# Arquivos de backup
+*.bak
+
+# Arquivos de imagem
+*.jpg
+*.jpeg
+*.png
+
+# Arquivos de vídeo
+*.mp4
+*.mov
+
+# Arquivos de música
+*.mp3
+
+# Arquivos de documento
+*.pdf
+*.docx
+
+# Arquivos temporários
+*.tmp
+
+# Arquivos de IDE
+.vscode
+.idea
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
